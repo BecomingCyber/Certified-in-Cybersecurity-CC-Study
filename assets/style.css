@@ -1,0 +1,114 @@
+/* ===== General Styles ===== */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9f9f9;
+  color: #222;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+/* ===== Header ===== */
+header {
+  background-color: #003049;
+  color: #ffffff;
+  padding: 2em 1em;
+  text-align: center;
+  border-bottom: 4px solid #f77f00;
+}
+
+header h1 {
+  margin-top: 0;
+  font-size: 2.4em;
+}
+
+header p {
+  margin: 0.5em 0;
+  font-size: 1.1em;
+}
+
+header a {
+  color: #fcbf49;
+  text-decoration: none;
+}
+
+header a:hover {
+  text-decoration: underline;
+}
+
+/* ===== Main Content ===== */
+main {
+  max-width: 850px;
+  margin: auto;
+  padding: 2em 1em;
+  background-color: #ffffff;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+}
+
+main h2 {
+  color: #003049;
+  border-bottom: 2px solid #eaeaea;
+  padding-bottom: 0.3em;
+  margin-top: 2em;
+}
+
+main ul {
+  list-style-type: disc;
+  padding-left: 1.5em;
+}
+
+main ul li {
+  margin-bottom: 0.5em;
+}
+
+main a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+main a:hover {
+  text-decoration: underline;
+}
+
+section {
+  margin-bottom: 2.5em;
+}
+
+/* ===== Footer ===== */
+footer {
+  margin-top: 3em;
+  padding: 1.5em 1em;
+  text-align: center;
+  font-size: 0.9em;
+  color: #666;
+  border-top: 1px solid #ddd;
+  background-color: #f0f0f0;
+}
+
+footer nav a {
+  color: #003049;
+  margin: 0 0.5em;
+  text-decoration: none;
+}
+
+footer nav a:hover {
+  text-decoration: underline;
+}
+
+/* ===== Responsive Design ===== */
+@media (max-width: 768px) {
+  header h1 {
+    font-size: 1.8em;
+    padding: 1em;
+  }
+
+  main {
+    padding: 1em;
+  }
+
+  footer {
+    padding: 1em;
+    font-size: 0.85em;
+  }
+}
