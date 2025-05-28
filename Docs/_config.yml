@@ -1,0 +1,35 @@
+title: "Certified in Cybersecurity (CC) Study Guide"
+description: >-
+  Personal GitHub Pages portfolio documenting my study journey for the ISC2 Certified in Cybersecurity (CC) exam.
+baseurl: "" # Leave empty for user/organization GitHub Pages sites
+url: "https://becomingcyber.github.io"
+
+# Theme settings
+theme: minima
+
+# Author Information
+author:
+  name: Mozella McCoy-Flowers
+  email: becomingcyber@outlook.com
+
+# Social Media Links
+social_links:
+  github: BecomingCyber
+  linkedin: mozella-mccoy-flowers
+
+# Markdown Processor
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Exclude files/folders from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
