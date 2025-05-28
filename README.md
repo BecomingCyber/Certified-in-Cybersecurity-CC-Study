@@ -1,7 +1,10 @@
 # 🛡️ Certified in Cybersecurity (CC) Study Guide
 
-![Progress](https://img.shields.io/badge/CC-70%25--Complete-blue)
-![Stars](https://img.shields.io/github/stars/BecomingCyber/yourrepo)
+![Progress](https://img.shields.io/badge/CC-7%25--Complete-blue)
+![GitHub Repo stars](https://img.shields.io/github/stars/BecomingCyber/Certified-in-Cybersecurity-CC-Study?style=social)
+![GitHub forks](https://img.shields.io/github/forks/BecomingCyber/Certified-in-Cybersecurity-CC-Study?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/BecomingCyber/Certified-in-Cybersecurity-CC-Study?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/BecomingCyber/Certified-in-Cybersecurity-CC-Study)
 
 Welcome to my self-paced study guide for the **ISC2 Certified in Cybersecurity (CC)** exam. This repository contains organized study notes, diagrams, practice questions, a study plan, and full practice quizzes—all aligned to the official CC domains.
 
